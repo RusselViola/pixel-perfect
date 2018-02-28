@@ -1,0 +1,28 @@
+{
+  "name": "pixel-perfect",
+  "version": "1.0.0",
+  "description": "simple pixel tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "pixel-test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RusselViola/pixel-perfect.git"
+  },
+  "keywords": [
+    "pixel",
+    "tracker",
+    "javascript"
+  ],
+  "author": "Russel Viola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RusselViola/pixel-perfect/issues"
+  },
+  "homepage": "https://github.com/RusselViola/pixel-perfect#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
